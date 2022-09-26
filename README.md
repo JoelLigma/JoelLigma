@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Joel 👋
+
+I am a software developer.
+
+- 💻 I have experience with Python, JavaScript, React.js, Node.js, Express.js, HTML, CSS, SASS and Machine Learning.
+- 🔭 I’m currently working on a full-stack application called Eureka, a social media analytics platform.
+- 🌱 I’m always looking to learn new things. At the top of my list are TypeScript, GraphQL and Next.js
+- 📫 How to reach me: https://www.linkedin.com/in/joelligma/
 
 <!--
 **JoelLigma/JoelLigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
