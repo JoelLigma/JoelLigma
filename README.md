@@ -5,7 +5,7 @@ I am a software developer.
 - 💻 I have experience with Python, TypeScript, JavaScript, React.js, Node.js, Express.js, HTML, CSS, SASS and Machine Learning.
 - 🔭 I’m currently working on a full-stack application called Eureka, a post time analysis and scheduling service. <br> &emsp;&nbsp;
  Project Link: https://eurekaanalytics.co.uk/
-- 🌱 I’m always looking to learn new things. Currently learning TypeScript and Ruby on Rails
+- 🌱 I’m always looking to learn new things. Currently learning TypeScript and Next.js
 - 📫 How to reach me: https://www.linkedin.com/in/joelligma/
 
 <!--
