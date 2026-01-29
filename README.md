@@ -5,7 +5,7 @@ I am a software developer.
 - 💻 I have experience working with modern JavaScript ecosystems as well as Data Analytics and Artificial Intelligence.
 - 🏗️ Side projects that I have recently worked on:
     - An online shop with Stripe integration -> https://after200am.vercel.app/
-    - Eureka, a post time analysis and scheduling service -> https://www.eurekaanalytics.co.uk/ 
+    - Eureka, a post time analysis and scheduling service -> https://eurekaanalytics.netlify.app/ 
     - SpeedTyper, a game to test and improve your typing speed -> https://speedtyperuk.netlify.app/
 - 🌱 I’m always looking to learn new things. Currently learning how to optimise my AI-driven development workflow.
 - 📫 How to reach me: https://www.linkedin.com/in/joelligma/
