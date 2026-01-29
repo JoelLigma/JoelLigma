@@ -2,12 +2,12 @@
 
 I am a software developer.
 
-- 💻 I have experience with Python, TypeScript, JavaScript, React.js, Node.js, Express.js, HTML, CSS (SASS, SCSS), Bootstrap, SQL, MongoDB and Machine Learning.
-- 🔭 I’m currently in the planning stage of a new project ✨. 
-- 🏗️ Projects that I have recently worked on: 
+- 💻 I have experience working with modern JavaScript ecosystems as well as Data Analytics and Artificial Intelligence.
+- 🏗️ Side projects that I have recently worked on:
+    - An online shop with Stripe integration -> https://after200am.vercel.app/
     - Eureka, a post time analysis and scheduling service -> https://www.eurekaanalytics.co.uk/ 
     - SpeedTyper, a game to test and improve your typing speed -> https://speedtyperuk.netlify.app/
-- 🌱 I’m always looking to learn new things. Currently learning Next.js.
+- 🌱 I’m always looking to learn new things. Currently learning how to optimise my AI-driven development workflow.
 - 📫 How to reach me: https://www.linkedin.com/in/joelligma/
 
 <!--
